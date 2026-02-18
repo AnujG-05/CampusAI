@@ -366,21 +366,4 @@ components/
 
 ---
 
-## Author Notes
-
-This system was designed to meet hackathon-grade and production-level expectations for:
-
-* software architecture
-* UI engineering
-* scalability
-* extensibility
-
-It demonstrates strong understanding of:
-
-* modern web architecture
-* component systems
-* AI platform design
-* scalable product engineering
-
----
 
